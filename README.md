@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Anshuman+Roy+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Anshuman+Roy+%F0%9F%91%8B;Aspiring+Cybersecurity+Professional;Red+%26+Blue+Teaming+Enthusiast;Exploring+Digital+Forensics+%26+AI" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -7,11 +7,11 @@
   I'm Anshuman Roy
 </h1>
 
-<h3 align="center">🚀 Data Scientist | Python Developer | Machine Learning Enthusiast 🚀</h3>
+<h3 align="center">🔐 Cybersecurity Student | Red & Blue Teamer | AI/ML Enthusiast 🔐</h3>
 
 <p align="center">
-  <em>Passionate about building intelligent systems and solving real-world problems with data</em><br>
-  <em>Currently working on Machine Learning projects and exploring AI/ML technologies</em>
+  <em>Passionate about securing digital infrastructures, ethical hacking, and digital forensics.</em><br>
+  <em>Bridging the gap between Cybersecurity and Artificial Intelligence.</em>
 </p>
 
 <p align="center">
@@ -23,59 +23,58 @@
 
 ## 🔭 About Me
 
-- 🔬 Working on **Credit Card Fraud Detection** using Machine Learning
-- 🌱 Currently learning **Deep Learning, NLP, and Advanced ML Algorithms**
-- 💡 Interested in **Data Science, AI/ML, and Python Development**
-- 🎯 Goal: Build impactful ML solutions that solve real-world problems
+- 🛡️ Currently focused on **Red Teaming (Offensive Security) & Blue Teaming (Defensive Security)**
+- 🕵️ Interested in **Digital Forensics and Malware Analysis**
+- 🤖 Integrating **AI & Machine Learning** with Cybersecurity (e.g., Fraud Detection)
+- 🎓 Learning **Penetration Testing, Network Security, and Threat Hunting**
+- 🎯 Goal: To become a proficient security professional capable of protecting complex systems
 - 📫 Reach me at: **anshumanroy1808@gmail.com**
-- ⚡ Fun fact: I love exploring new technologies and turning data into insights!
 
 ---
 
 ## 🛠️ Tools & Technologies in My Arsenal
 
+### 🛡️ Cybersecurity & Forensics
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-Use_the_Force_Luke-blue?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Burp_Suite-EB5424?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+</p>
+
 ### 💻 Programming & Scripting
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-### 🤖 Data Science & Machine Learning
+### 🤖 AI & Machine Learning Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 </p>
 
 ---
@@ -128,7 +127,7 @@
 ## 💼 Featured Projects
 
 ### 🔐 [Credit Card Fraud Detection](https://github.com/anshwhoo/Credit-card-fraud-detection)
-Machine Learning project for detecting fraudulent credit card transactions using advanced algorithms and data analysis techniques.
+Machine Learning project for detecting fraudulent credit card transactions, showcasing the intersection of cybersecurity and AI.
 
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Machine Learning
 
