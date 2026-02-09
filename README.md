@@ -7,7 +7,7 @@
   I'm Anshuman Roy
 </h1>
 
-<h3 align="center">🔐 Network Security Specialist | Red & Blue Teamer | Secure Infrastructure Developer 🔐</h3>
+<h3 align="center">🔐 Network Security Enthusiast | Red & Blue Teamer | Secure Infrastructure Developer 🔐</h3>
 
 <p align="center">
   <em>Passionate about securing digital infrastructures, network defense, and advanced threat detection.</em><br>
