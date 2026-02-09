@@ -100,13 +100,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshwhoo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 📈 Contribution Graph
 
