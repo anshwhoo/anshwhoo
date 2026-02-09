@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Anshuman+Roy+%F0%9F%91%8B;Aspiring+Cybersecurity+Professional;Red+%26+Blue+Teaming+Enthusiast;Exploring+Digital+Forensics+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Anshuman+Roy+%F0%9F%91%8B;Aspiring+Cybersecurity+Professional;Network+Security+%26+Defense+Specialist;Building+Secure+Infrastructure+with+NetSentinel" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -7,11 +7,11 @@
   I'm Anshuman Roy
 </h1>
 
-<h3 align="center">🔐 Cybersecurity Student | Red & Blue Teamer | AI/ML Enthusiast 🔐</h3>
+<h3 align="center">🔐 Network Security Specialist | Red & Blue Teamer | Secure Infrastructure Developer 🔐</h3>
 
 <p align="center">
-  <em>Passionate about securing digital infrastructures, ethical hacking, and digital forensics.</em><br>
-  <em>Bridging the gap between Cybersecurity and Artificial Intelligence.</em>
+  <em>Passionate about securing digital infrastructures, network defense, and advanced threat detection.</em><br>
+  <em>Building next-generation security tools like <strong>NetSentinel</strong> for enterprise protection.</em>
 </p>
 
 <p align="center">
@@ -23,18 +23,18 @@
 
 ## 🔭 About Me
 
-- 🛡️ Currently focused on **Red Teaming (Offensive Security) & Blue Teaming (Defensive Security)**
-- 🕵️ Interested in **Digital Forensics and Malware Analysis**
-- 🤖 Integrating **AI & Machine Learning** with Cybersecurity (e.g., Fraud Detection)
-- 🎓 Learning **Penetration Testing, Network Security, and Threat Hunting**
-- 🎯 Goal: To become a proficient security professional capable of protecting complex systems
+- 🛡️ Specializing in **Network Security, Firewall Management, and Intrusion Detection Systems (IDS/IPS)**
+- 🕵️ Focused on **Red Teaming (Offensive Security) & Blue Teaming (Defensive Security)**
+- 🌐 Developing **NetSentinel**, a comprehensive network security dashboard
+- 🎓 Learning **Penetration Testing, Traffic Analysis, and Digital Forensics**
+- 🎯 Goal: To engineer robust security solutions that defend against sophisticated cyber threats
 - 📫 Reach me at: **anshumanroy1808@gmail.com**
 
 ---
 
 ## 🛠️ Tools & Technologies in My Arsenal
 
-### 🛡️ Cybersecurity & Forensics
+### 🛡️ Network Security & Forensics
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -53,27 +53,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </p>
 
-### 🤖 AI & Machine Learning Tools
+### 🌐 Secure Web Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
+</p>
+
+### 🤖 Automation & Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-</p>
-
-### 🌐 Web & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 </p>
 
@@ -126,10 +119,16 @@
 
 ## 💼 Featured Projects
 
-### 🔐 [Credit Card Fraud Detection](https://github.com/anshwhoo/Credit-card-fraud-detection)
-Machine Learning project for detecting fraudulent credit card transactions, showcasing the intersection of cybersecurity and AI.
+### 🛡️ [NetSentinel](https://github.com/anshwhoo/NetSentinel)
+A unified cybersecurity dashboard designed to monitor, manage, and secure enterprise networks. **NetSentinel** centralizes critical security controls into a single, intuitive interface.
 
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Machine Learning
+#### 🔑 Key Modules:
+- **🔥 Firewall Management:** Real-time rule configuration, traffic filtering, and intrusion prevention integration.
+- **🔒 VPN Gateway:** Secure remote access management with encrypted tunneling and user authentication.
+- **🌐 DNS Security:** Prevention of DNS spoofing, hijacking, and malicious domain filtering.
+- **📜 Certificate Authority (CA):** Full lifecycle management of SSL/TLS certificates for internal and external services.
+
+**Tech Stack:** Next.js, Flask, Python, Network Security Protocols, OpenSSL
 
 ---
 
