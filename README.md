@@ -25,8 +25,7 @@
 
 - 🛡️ Specializing in **Network Security, Firewall Management, and Intrusion Detection Systems (IDS/IPS)**
 - 🕵️ Focused on **Red Teaming (Offensive Security) & Blue Teaming (Defensive Security)**
-- 🌐 Developing **NetSentinel**, a comprehensive network security dashboard
-- 🎓 Learning **Penetration Testing, Traffic Analysis, and Digital Forensics**
+- 🎓 Learning **Penetration Testing, SOC, and Digital Forensics**
 - 🎯 Goal: To engineer robust security solutions that defend against sophisticated cyber threats
 - 📫 Reach me at: **anshumanroy1808@gmail.com**
 
