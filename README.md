@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>Passionate about securing digital infrastructures, network defense, and advanced threat detection.</em><br>
-  <em>Building next-generation security tools like <strong>NetSentinel</strong> for enterprise protection.</em>
+  <em>Building next-generation security frameworks like <strong>AgentShield</strong> to protect AI agents from web threats.</em>
 </p>
 
 <p align="center">
@@ -101,16 +101,16 @@
 
 ## 💼 Featured Projects
 
-### 🛡️ [NetSentinel](https://github.com/anshwhoo/NetSentinel)
-A unified cybersecurity dashboard designed to monitor, manage, and secure enterprise networks. **NetSentinel** centralizes critical security controls into a single, intuitive interface.
+### 🛡️ [AgentShield](https://github.com/anshwhoo/Agentshield)
+**AgentShield** is a comprehensive, security-first middleware framework designed to wrap around autonomous web agents (LLMs integrated with browser automation frameworks). Its primary goal is to safely monitor, audit, and intercept agent behavior when exposed to potentially malicious web environments.
 
-#### 🔑 Key Modules:
-- **🔥 Firewall Management:** Real-time rule configuration, traffic filtering, and intrusion prevention integration.
-- **🔒 VPN Gateway:** Secure remote access management with encrypted tunneling and user authentication.
-- **🌐 DNS Security:** Prevention of DNS spoofing, hijacking, and malicious domain filtering.
-- **📜 Certificate Authority (CA):** Full lifecycle management of SSL/TLS certificates for internal and external services.
+#### 🔑 Key Features:
+- **🛑 Threat Interception:** Real-time blocking of prompt injections, hidden CSS traps, deceptive UI, and JS injections.
+- **🌐 Live Web Scanning:** Test AI agents against real-time websites with active security scanning and DOM analysis.
+- **📊 Automated Evaluation:** Built-in tools to generate Confusion Matrices and evaluate True Positives vs False Alarms.
+- **🛡️ Governance & Audit:** Comprehensive tracking of guardrail violations, latencies, and generation of OWASP-compliant audit PDFs.
 
-**Tech Stack:** Next.js, Flask, Python, Network Security Protocols, OpenSSL
+**Tech Stack:** Python, FastAPI, Playwright, Llama/Qwen (Local AI), Groq, HTML/CSS/JS (Dashboard)
 
 ---
 
